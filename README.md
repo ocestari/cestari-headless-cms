@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fff86244-c738-41a5-96e6-fe2dd6eb3941/deploy-status)](https://app.netlify.com/projects/effervescent-puppy-3aa3a0/deploys)
+
 # A Wix CMS Next.js Education Template
 
 > Join the [Wix Headless community on Discord](https://discord.com/invite/n6TBrSnYTp) to get official support, interact with fellow Wix Headless developers and get updates on new releases.
